@@ -12,7 +12,7 @@ I'm a Systems Design Engineering student at the University of Waterloo — which
 
 ## 💻 Currently Exploring:
 - CAD tools like SolidWorks and Fusion 360.
-- Python, JavaScript, and a bit of C++ when I’m feeling brave.
+- React, JavaScript, and a bit of Node.js when I’m feeling brave.
 - UX/UI design, because good design should never be an afterthought.
 
 ## 🎭 Two Truths and a Lie:
